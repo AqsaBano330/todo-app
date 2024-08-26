@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "947891423660",
+    "project_id": "my-map-project-402519",
+    "storage_bucket": "my-map-project-402519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947891423660:android:dc35dcb586cdaceec35209",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947891423660-fpeb79lvl4s666n02e5q1a22s35s89bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGwzsPq9YVi_aagRAJn6KFMNGCcRbnqXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947891423660-fpeb79lvl4s666n02e5q1a22s35s89bm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947891423660-r22m6b420nv3mc5qotitvkoa2lkstmdg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
